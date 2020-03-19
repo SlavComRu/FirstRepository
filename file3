@@ -1,0 +1,29 @@
+[33mcommit 6db8960e1f1fb89091f374600a87ff8fd3e1e3d0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Vyacheslav Vasilev <viacheslav@email.com>
+Date:   Thu Mar 19 20:32:44 2020 +0300
+
+    returm file2  to its original state
+
+[33mcommit 1d568a8fa589c4f7ee2852a0aca677214a463bcd[m
+Author: Vyacheslav Vasilev <viacheslav@email.com>
+Date:   Tue Mar 17 20:13:23 2020 +0300
+
+    change file2
+
+[33mcommit 412a5a287044585b22f063a3539269bdee6cdd35[m
+Author: Vyacheslav Vasilev <viacheslav@email.com>
+Date:   Mon Mar 16 21:51:37 2020 +03000
+
+    Change file1 and file2
+
+[33mcommit 578d182d4049df2c46b90af544a3b4a04ea86d27[m
+Author: Vyacheslav Vasilev <viacheslav@email.com>
+Date:   Mon Mar 16 21:39:05 2020 +0300
+
+    Change file1 and file2
+
+[33mcommit 3cd38b5e1f183683ba1891c18b4a94e11a207a27[m
+Author: Vyacheslav Vasilev <viacheslav@email.com>
+Date:   Mon Mar 16 21:27:38 2020 +0300
+
+    Add file1
