@@ -1,6 +1,7 @@
 Hello!!!
 Привет!!
 Work!!!
+public static voit main(String )
 
  
  
